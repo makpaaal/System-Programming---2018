@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1517167239 source:/home/makpal/Desktop/System Programming/Lab1/part1.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+
+1517167358 source:/home/makpal/Desktop/System Programming/Lab1/part2.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<fcntl.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+
